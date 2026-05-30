@@ -186,7 +186,7 @@ Optimize discount strategies
 Improve customer retention
 Enhance regional sales performance
 Support data-driven decision making
-Increase profitability through actionable insights
+Increase profitability through actionable insights.
 
 🚀 Future Enhancements
 
@@ -195,4 +195,4 @@ Customer Churn Prediction
 Customer Lifetime Value (CLV) Analysis
 Automated Data Pipelines
 Power BI Version of Dashboard
-Predictive Inventory Optimization
+Predictive Inventory Optimization.
