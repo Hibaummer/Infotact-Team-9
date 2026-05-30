@@ -43,6 +43,8 @@ Top Product Performance.
 Week 4: Business Insights & Recommendations
 The final phase focused on interpreting dashboard findings and providing actionable recommendations. 💡
 
+
+
 🛠️ Tools & Technologies
 
 Component: Technology
@@ -60,6 +62,8 @@ Dashboard Development: Tableau Public/Desktop
 Data Source: Sample Superstore Dataset
 
 Version Control: Git & GitHub
+
+
 
  📌 Key Business Insights
 
@@ -170,6 +174,8 @@ Recommendation
 
 Track Profit Margin as a core KPI.
 Focus on profit-driven decision making rather than revenue alone.
+
+
 
 💼 Business Value Delivered
 
